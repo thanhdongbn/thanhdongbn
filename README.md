@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thanhdongbn
 - 👀 I’m interested in swimming, play game, go to picnic ...
-- 🌱 I’m currently IT Enginer
+- 🌱 I’m currently IT Engineer
 - 💞️ I’m looking to collaborate on github with development
 - 📫 Contact with me: nvdong@itckl.onmicrosoft.com
 
